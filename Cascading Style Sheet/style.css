@@ -73,6 +73,10 @@ nav li a {
     font-family: 600;
 }
 
+.banner-discription {
+    padding: 20px 0 30px 0;
+}
+
 .banner-title {
     font-weight: bold;
     font-size: 85px;
